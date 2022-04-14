@@ -18,4 +18,4 @@ Ce projet consiste à vous faire mettre en place votre premier serveur en suivan
 
 ## Auteur
 
-- Yanis Labbé#
+- Yanis Labbé
